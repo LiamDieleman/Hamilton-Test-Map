@@ -1,2 +1,2 @@
 # Hamilton-Test-Map
-This map is part of a Project for a QGIS Project. 
+This map is part of a Project for an intro QGIS course. 
